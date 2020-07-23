@@ -42,3 +42,7 @@ cat  /usr/local/cuda/version.txt
 # 4. linux系统下，安装pytorch
 
 参考 引用/致谢：https://pytorch.org/get-started/locally/
+
+# 5. linux terminal 中查找之前用过的命令
+
+ctrl + r  命令
