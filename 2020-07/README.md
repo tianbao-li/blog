@@ -16,3 +16,21 @@ fd目录下是进程打开或使用的文件的符号连接。
 
 
 引用/致谢：https://www.cnblogs.com/JThinking/p/9408854.html
+
+# 2. 安装pytorch_geometric
+
+我是 PyTorch 1.5.1
+
+$ pip install torch-scatter==latest+${CUDA} -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+
+$ pip install torch-sparse==latest+${CUDA} -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+
+$ pip install torch-cluster==latest+${CUDA} -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+
+$ pip install torch-spline-conv==latest+${CUDA} -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+
+$ pip install torch-geometric
+
+where ${CUDA} should be replaced by either cpu, cu92, cu101 or cu102 depending on your PyTorch installation.
+
+引用/致谢：https://github.com/rusty1s/pytorch_geometric
