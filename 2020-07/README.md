@@ -17,7 +17,7 @@ fd目录下是进程打开或使用的文件的符号连接。
 
 引用/致谢：https://www.cnblogs.com/JThinking/p/9408854.html
 
-# 2. 安装pytorch_geometric
+# 2. linux系统下，安装pytorch_geometric
 
 我是 PyTorch 1.5.1
 
@@ -35,6 +35,6 @@ where ${CUDA} should be replaced by either cpu, cu92, cu101 or cu102 depending o
 
 引用/致谢：https://github.com/rusty1s/pytorch_geometric
 
-# 3. linux 查看cuda版本
+# 3. linux系统下，查看cuda版本
 
 cat  /usr/local/cuda/version.txt
