@@ -45,4 +45,4 @@ cat  /usr/local/cuda/version.txt
 
 # 5. linux terminal 中查找之前用过的命令
 
-ctrl + r  命令
+ctrl+r  命令
