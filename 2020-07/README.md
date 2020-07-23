@@ -38,3 +38,7 @@ where ${CUDA} should be replaced by either cpu, cu92, cu101 or cu102 depending o
 # 3. linux系统下，查看cuda版本
 
 cat  /usr/local/cuda/version.txt
+
+# 4. linux系统下，安装pytorch
+
+参考 引用/致谢：https://pytorch.org/get-started/locally/
