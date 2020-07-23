@@ -34,3 +34,7 @@ $ pip install torch-geometric
 where ${CUDA} should be replaced by either cpu, cu92, cu101 or cu102 depending on your PyTorch installation.
 
 引用/致谢：https://github.com/rusty1s/pytorch_geometric
+
+# 3. linux 查看cuda版本
+
+cat  /usr/local/cuda/version.txt
