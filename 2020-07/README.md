@@ -46,3 +46,16 @@ cat  /usr/local/cuda/version.txt
 # 5. linux terminal 中查找之前用过的命令
 
 ctrl+r  命令
+
+# 6. conda常用命令
+
+conda update -n base conda        //update最新版本的conda
+
+conda create -n xxxx python=3.5   //创建python3.5的xxxx虚拟环境
+
+conda activate xxxx               //开启xxxx环境
+
+conda deactivate                  //关闭环境
+
+conda env list                    //显示所有的虚拟环境
+
