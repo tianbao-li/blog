@@ -8,4 +8,5 @@
 
        引用并致谢： https://www.cnblogs.com/zhuminghui/p/10947930.html 
 
-# 2. 
+# 2. 简明Python教程
+    https://bop.molun.net
