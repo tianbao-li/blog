@@ -8,5 +8,9 @@
 
        引用并致谢： https://www.cnblogs.com/zhuminghui/p/10947930.html 
 
-# 2. 简明Python教程
-    https://bop.molun.net
+# 2. 简明Python教程 《A Byte of Python》
+    中文译版在线阅读: https://bop.molun.net
+    
+    英文原版在线阅读: http://python.swaroopch.com/
+
+# 3.
