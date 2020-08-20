@@ -13,4 +13,5 @@
     
     英文原版在线阅读: http://python.swaroopch.com/
 
-# 3.
+# 3. vim常用命令
+    dd 删除（剪切）光标所在整行
