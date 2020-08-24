@@ -21,8 +21,8 @@
     set nu      显示行号
     ?字符串     搜索该字符串
 # 4. torch.nn.Module 简介
-    torch.nn  
-    https://pytorch.org/docs/stable/nn.html
+   torch.nn  
+   https://pytorch.org/docs/stable/nn.html
     
     torch.nn.Module 源码分析  
     https://zhuanlan.zhihu.com/p/88712978
