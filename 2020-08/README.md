@@ -97,3 +97,5 @@
     既将模型放到CUDA上：         model = model.to(device)  或  model = model.cuda()
     也要将输入数据放到CUDA上：   data = data.to(device)    或  data = data.cuda()
     
+# 12. windows 自带截图命令
+    win + shift + s
