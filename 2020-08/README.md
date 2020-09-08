@@ -38,3 +38,8 @@
     
 # 6. windows 自带截图命令
     win + shift + s
+    
+# 7. matlab R2020a 安装破解教程
+    http://www.zhanshaoyi.com/14416.html
+    
+ 
