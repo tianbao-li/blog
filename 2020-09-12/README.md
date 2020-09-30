@@ -12,3 +12,6 @@
      
 # 3. PointNet pytorch代码
     https://github.com/fxia22/pointnet.pytorch
+    其中用到的 F.log_softmax 与 softmax 可以根据情况分析选择使用
+
+# 4. 
