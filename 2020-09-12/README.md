@@ -14,4 +14,5 @@
     https://github.com/fxia22/pointnet.pytorch
     其中用到的 F.log_softmax 与 softmax 可以根据情况分析选择使用
 
-# 4. 
+# 4. 信息熵、条件熵、相对熵、交叉熵
+    
