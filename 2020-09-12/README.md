@@ -15,4 +15,4 @@
     其中用到的 F.log_softmax 与 softmax 可以根据情况分析选择使用
 
 # 4. 信息熵、条件熵、相对熵、交叉熵
-    
+    https://www.cnblogs.com/kyrieng/p/8694705.html
