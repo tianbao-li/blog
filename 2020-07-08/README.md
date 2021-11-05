@@ -1,4 +1,4 @@
-## 1. linux 查看运行进程所在目录
+### 1. linux 查看运行进程所在目录
 
     Linux在启动一个进程时，系统会在/proc下创建一个以PID命名的文件夹，在该文件夹下会有我们的进程的信息，
     其中包括一个名为exe的文件即记录了绝对路径，通过ll或ls –l命令即可查看。
@@ -17,7 +17,7 @@
 
   引用/致谢：https://www.cnblogs.com/JThinking/p/9408854.html
 
-# 2. linux系统下，安装pytorch_geometric
+## 2. linux系统下，安装pytorch_geometric
 
     我是 PyTorch 1.5.1
 
