@@ -13,4 +13,7 @@
     
     参考：https://www.cnblogs.com/xiaohi/p/15907083.html
     
+### 4. 解决 Failed to initialize NVML: Driver/library version mismatch
+    
+    参考: https://blog.csdn.net/yyhaohaoxuexi/article/details/124449062
    
