@@ -23,6 +23,7 @@
     
 ### 5. linux ubuntu系统，添加用户并赋予权限
 
-  查看用户列表：  
-    cat /etc/passwd
+    查看用户列表: cat /etc/passwd
+    查看用户组: cat /etc/group
+    创建用户且指定该用户的根路径和密码: useradd -d /home/mydir -m username
    
