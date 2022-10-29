@@ -20,4 +20,9 @@
 ### 5. Python绘制频率分布直方图和条形图
 
     参考: https://blog.csdn.net/weixin_39505820/article/details/121993969
+    
+### 5. linux ubuntu系统，添加用户并赋予权限
+
+  查看用户列表：  
+    cat /etc/passwd
    
