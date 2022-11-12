@@ -29,4 +29,8 @@
     设置密码: passwd username
     用户授权: chown -R username: username /home/ mydir
     将用户加入到组: usermod -G groupA username
+    
+### 6. cdo 命令 处理 .nc 文件
+
+    拼接数据： cdo cat *.nc target_file_name.nc
    
