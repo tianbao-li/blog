@@ -33,4 +33,8 @@
 ### 6. cdo 命令 处理 .nc 文件
 
     拼接数据： cdo cat *.nc target_file_name.nc
+    
+### 6. tmux 启用鼠标
+
+    ctrl + B : set -g mouse on
    
