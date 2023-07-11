@@ -13,10 +13,10 @@
     conda install pyg -c pyg
 
   安装torch_scatter, torch_sparse等
+  
     pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-1.13.0+${CUDA}.html
+  
   where ${CUDA} should be replaced by either cpu, cu116, or cu117 depending on your PyTorch installation.
 
-  引用/致谢：https://github.com/pyg-team/pytorch_geometric#installation
-  
-             https://pytorch.org/get-started/previous-versions/
+  相关网址：https://github.com/pyg-team/pytorch_geometric#installation; https://pytorch.org/get-started/previous-versions/
         
